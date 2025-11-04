@@ -3,6 +3,17 @@ Built with the NMRobotics “Camera-Eye Follower Bot” kit and custom firmware
 
 A face-tracking animatronic head mechanism. A webcam detects a human face, sends X/Y offset data to a microcontroller board (e.g., Raspberry Pi Pico), which drives metal-gear MG90S servos for eye pan/tilt, eyelids, and a neck follow motion.
 
+## 🎥 Demonstration Videos
+
+See the Camera-Eye Follower Bot in action:
+
+- [YouTube Short 1 — Eye Tracking Demo](https://www.youtube.com/shorts/8LblFQowTHk)  
+  *Real-time face tracking with smooth servo motion.*
+
+- [YouTube Short 2 — Full Head Follow Demo](https://www.youtube.com/shorts/24ze30ukBDU)  
+  *Eyes, eyelids, and neck coordination responding to a moving target.*
+
+
 ## Kit & Hardware  
 This project uses the NMRobotics kit titled *Camera-Eye Follower Bot* from NMRobotics. :contentReference[oaicite:2]{index=2}  
 Parts include:  
