@@ -5,13 +5,12 @@ A face-tracking animatronic head mechanism. A webcam detects a human face, sends
 
 ## 🎥 Demonstration Videos
 
-See the Camera-Eye Follower Bot in action:
+[![Eye Tracking Demo](https://img.youtube.com/vi/8LblFQowTHk/hqdefault.jpg)](https://www.youtube.com/shorts/8LblFQowTHk)
+*Real-time face tracking with smooth servo motion.*
 
-- [YouTube Short 1 — Eye Tracking Demo](https://www.youtube.com/shorts/8LblFQowTHk)  
-  *Real-time face tracking with smooth servo motion.*
+[![Full Head Follow Demo](https://img.youtube.com/vi/24ze30ukBDU/hqdefault.jpg)](https://www.youtube.com/shorts/24ze30ukBDU)
+*Eyes, eyelids, and neck coordination responding to a moving target.*
 
-- [YouTube Short 2 — Full Head Follow Demo](https://www.youtube.com/shorts/24ze30ukBDU)  
-  *Eyes, eyelids, and neck coordination responding to a moving target.*
 
 
 ## Kit & Hardware  
